@@ -1,4 +1,4 @@
-![Header](https://your-banner-url.com/banner.png)
+
 
 <h1 align="center">🚀 Bienvenue sur mon GitHub !</h1>
 
